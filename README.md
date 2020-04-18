@@ -9,3 +9,4 @@
 - [ ] O código tem que estar devidamente identado
 - [ ] Deve possuir o mínimo de linhas possível
 - [ ] Ao concluir criar uma documentação em markdown e subir neste repositório
+- [ ] Utilizar o branch OlaMundo
